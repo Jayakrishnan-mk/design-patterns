@@ -1,6 +1,8 @@
 
+// -------------------------------------------------------------------------
 // singleton pattern:
 // it ensures only one instance of a class exists in the whole application
+// -------------------------------------------------------------------------
 
 class Database {
     constructor() {
